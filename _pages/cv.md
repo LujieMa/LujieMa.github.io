@@ -21,7 +21,6 @@ Reasearch experience
 * September 2023-Present: Research Assistant
   * East China Normal University
   * Educational Neuroscience Lab
-  * Supervisor: Professor [Zhou](http://www.ed.ecnu.edu.cn/en/?teacher=zhou-jiaxian)
 
 * May 2023-August 2023: Research Assistant
   * Shanghai Jiao Tong University
