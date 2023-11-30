@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi I’m Lujie Ma"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
