@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here: [Lujie Ma's Curriculum Vitae](../assets/CV.pdf)
+
 Education
 ======
 * M.Ed. in Vanderbilt University, Peabody College, Nashville, TN, U.S.A. 2024(Expected)

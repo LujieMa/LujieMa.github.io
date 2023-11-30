@@ -7,8 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Math Education Researcher currently pursuing my master degree in International Education Policy and Management at [Vanderbilt Peabody College](https://peabody.vanderbilt.edu/academics/masters-programs/international-education-policy-and-management-med/). I also hold a bachelor’s degree of education in elementary education from China.
+Currently, I am a master's student and a math education researcher in International Education Policy and Management program at [Vanderbilt University Peabody College](https://peabody.vanderbilt.edu/academics/masters-programs/international-education-policy-and-management-med/). My research interests lie in **spatial reasoning**, **embodied intervention design**, and **neuroscience evidence** for students' different math performance.
 
-My research interests include **math education**, **methods of mathematical thinking**, **neuroscience education**.
-
-You can find my CV here: [Lujie Ma's Curriculum Vitae](../assets/CV.pdf)

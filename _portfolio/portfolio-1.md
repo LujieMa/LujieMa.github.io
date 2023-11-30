@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "World Policy Analysis: Compulsory Education in South Asia"
+excerpt: "Compulsory education can impact some of the South Asian countries, and the effect on different countries are at different extents."
 collection: portfolio
 ---
+World Policy Analysis: Compulsory Education in South Asia
+---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Compulsory education can impact some of the South Asian countries, and the effect on different countries are at different extents.
+
+[Download project here](../files/World%20Policy%20Analysis-Compulsory%20Education%20in%20South%20Asia.pdf)
+
