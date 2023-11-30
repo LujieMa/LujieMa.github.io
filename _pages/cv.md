@@ -14,7 +14,7 @@ You can find my CV here: [Lujie Ma's Curriculum Vitae](../assets/CV.pdf)
 Education
 ======
 * M.Ed. in Vanderbilt University, Peabody College, Nashville, TN, U.S.A. 2024(Expected)
-* M.S. in Shanghai Normal University, Tianhua College, Shanghai, China,2022
+* B.A. in Shanghai Normal University, Tianhua College, Shanghai, China,2022
 
 Reasearch experience
 ======
