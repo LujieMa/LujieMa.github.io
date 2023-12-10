@@ -5,6 +5,6 @@ collection: portfolio
 ---
 
 Compulsory education can impact some of the South Asian countries, and the effect on different countries are at different extents.
-
+{% include base_path %}
 [Download project here](../assets/paper1.pdf)
 
