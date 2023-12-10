@@ -7,4 +7,4 @@ collection: portfolio
 
 Investigate an ideal teaching approach that integrates both nonverbal gestures and verbal questions in the realm of mathematics education.
 
-[Download project here](../files/Writing%20Sample%20(research%20proposal)%20-%20Lujie%20(Lauren)%20Ma.pdf)
+[Download project here](../assets/paper3.pdf)
