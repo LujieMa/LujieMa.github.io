@@ -5,6 +5,8 @@ excerpt: "Investigate an ideal teaching approach that integrates both nonverbal 
 collection: portfolio
 ---
 
-Investigate an ideal teaching approach that integrates both nonverbal gestures and verbal questions in the realm of mathematics education.
 {% include base_path %}
+
+Investigate an ideal teaching approach that integrates both nonverbal gestures and verbal questions in the realm of mathematics education.
+
 [Download project here](../assets/paper3.pdf)
